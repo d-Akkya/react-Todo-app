@@ -1,0 +1,6 @@
+[✅] - Input for adding todo
+[✅] - Button for adding todo
+[✅] - Logic for adding todo
+[✅] - Displaying todos
+[✅] - Edit todos
+[✅] - Delete todos
