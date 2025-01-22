@@ -83,7 +83,7 @@ The application leverages local storage to persist todos. Key implementation ste
    const savedTodos = JSON.parse(localStorage.getItem('todos')) || [];
    ```
 
-2. **Saving Data to Local Storage**: Every time a todo is added, edited, or deleted, the updated list is stored in local storage:
+2. **Saving Data to Local Storage**: Every time a todo is added, edited or deleted, the updated list is stored in local storage:
    ```js
    localStorage.setItem('todos', JSON.stringify(todos));
    ```
@@ -105,7 +105,7 @@ To deploy the app, build the production-ready files:
 npm run build
 ```
 
-The `build/` directory contains the optimized app, ready for deployment on platforms like Netlify, Vercel, or any static hosting service.
+The `build/` directory contains the optimized app, ready for deployment on platforms like Netlify, Vercel or any static hosting service.
 
 ## 🤝 Contributing
 
