@@ -49,7 +49,7 @@ Launch the application in development mode:
 npm run dev
 ```
 
-The app will open in your default browser at `http://localhost:3000`.
+### 5. Open your browser and visit http://localhost:5173.
 
 ## 📂 Project Structure
 
