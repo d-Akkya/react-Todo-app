@@ -46,7 +46,7 @@ npm install
 Launch the application in development mode:
 
 ```bash
-npm start
+npm run dev
 ```
 
 The app will open in your default browser at `http://localhost:3000`.
