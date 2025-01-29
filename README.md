@@ -56,21 +56,19 @@ npm run dev
 Below is an overview of the project's folder structure:
 
 ```
-react-todo-app/
-├── public/
-│   ├── index.html
-│   └── ...
+react-Todo-app/
+├── node_modules/
 ├── src/
-│   ├── components/
-│   │   ├── TodoForm.js
-│   │   ├── TodoList.js
-│   │   └── TodoItem.js
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
 ├── .gitignore
+├── features.txt
+├── index.html
+├── package-lock.json
 ├── package.json
 ├── README.md
+├── tailwind.config.js
 └── ...
 ```
 
