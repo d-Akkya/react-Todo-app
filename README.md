@@ -96,9 +96,11 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🙌 Acknowledgments
+## 📞 Contact
+For any inquiries, feel free to reach out :
 
-- Built with [React](https://reactjs.org/)
-- Inspired by task management tools
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhileshbamane26@gmail.com)
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-akkya/)
+         [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/d_akkya_007/)
 
 Enjoy using React Todo App! If you have any feedback, feel free to open an issue or contribute to the project.
