@@ -72,29 +72,6 @@ react-Todo-app/
 └── ...
 ```
 
-## 💾 Local Storage Integration
-
-The application leverages local storage to persist todos. Key implementation steps include:
-
-1. **Fetching Data from Local Storage**: On application load, todos are retrieved from local storage using:
-   ```js
-   const savedTodos = JSON.parse(localStorage.getItem('todos')) || [];
-   ```
-
-2. **Saving Data to Local Storage**: Every time a todo is added, edited or deleted, the updated list is stored in local storage:
-   ```js
-   localStorage.setItem('todos', JSON.stringify(todos));
-   ```
-
-3. **React State Management**: The state of todos is managed using React's `useState` and `useEffect` hooks:
-   ```js
-   const [todos, setTodos] = useState(savedTodos);
-
-   useEffect(() => {
-       localStorage.setItem('todos', JSON.stringify(todos));
-   }, [todos]);
-   ```
-
 ## 🌍 Deployment
 
 To deploy the app, build the production-ready files:
