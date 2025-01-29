@@ -30,7 +30,7 @@ git clone https://github.com/d-Akkya/react-Todo-app.git
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd react-todo-app
+cd react-Todo-app
 ```
 
 ### 3. Install Dependencies
