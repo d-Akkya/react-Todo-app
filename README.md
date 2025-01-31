@@ -2,6 +2,10 @@
 
 React Todo App is a simple yet powerful task management application built using React. This application allows users to add, edit, delete and mark tasks as complete. The todos are stored in the browser's local storage, ensuring the data persists even after the browser is restarted.
 
+Demo of the project👇🏻
+
+https://github.com/user-attachments/assets/3276234c-0673-4966-a34e-f083b52c7d24
+
 ## 🌟 Features
 
 - 📌 **Add Todos**: Quickly add new tasks to your list.
